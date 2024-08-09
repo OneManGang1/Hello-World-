@@ -1,1 +1,10 @@
-
+.all_heads{color: white; font-size: 25px; text-align:center; background-color: blue; border : 2px dashed orange;}
+.all_p{color: black; font-size: 20px; background-color : yellow; text-align:left; border:5px dotted brown; border-radius:10px;height:100px; overflow:auto;}
+.name_and_email{colr:blue; front-size: 20px; background: skyblue; text-align: center;}
+input[type=text]{color:red; background-color: blue;}
+.space{background:green; margin-top:2px; margin-right:2px; margin-bottom:4px; margin-left:4px;}
+.last{background-image: url ("https://upload.wikimedia.org/wikipedia/commons/7/7a/Boxmodell-detail.png");}
+.sub{background :blue; border:2px dashed orange; margin-left: 40%;}
+#Fixedme{color:red; text-align: center}#best{color:red; position: fixed; top: 138px; left:10px; font-size:10px;}
+.name_and_emai.hover{background-color:orange;}
+a:active{color:brown;}
