@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<head> <title> My First Web Page </title>
+<head>
 <link rel= "stylesheet" type= "text/css" href= "//style.css">
 </head>
 <body>
